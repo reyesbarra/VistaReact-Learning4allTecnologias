@@ -1,0 +1,13 @@
+.text-muted {
+    display: flex;
+    justify-content: center;
+  }
+
+  footer .text-muted {
+    color: white;
+  }
+
+  #footer-text {
+    color: white;
+  }
+  
